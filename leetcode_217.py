@@ -1,6 +1,6 @@
 from typing import List
 
-# Leetcode problem 217. Contains Duplicate
+# Leetcode problem 217 Contains Duplicate
 class Solution:
     # brute force method
     # simple 2 nested loop
